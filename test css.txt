@@ -1,0 +1,15 @@
+<head>
+	<title> Keith the QB </title>
+	<link rel="stylesheet" type="text/css" href="test.css"/>
+</head>
+
+#Header{
+	width: 500px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 10px;
+	border; solid 8px black;
+	LeftNav: 400px;
+	Content: 700px;
+}
+
